@@ -1,0 +1,2 @@
+# rinz
+SS on Fediverse
